@@ -4,7 +4,7 @@
 Tải và cài đặt Apache JMeter từ trang chủ: [JMeter Official Site](https://jmeter.apache.org/)
 
 ## 2. Thiết lập kịch bản kiểm thử hiệu suất
-- Trang web kiểm thử: **[the-internet.herokuapp.com](https://the-internet.herokuapp.com/)**
+- Trang web kiểm thử: **[https://the-internet.herokuapp.com/login](https://the-internet.herokuapp.com/login)**
 - Mô phỏng **50 người dùng đồng thời** truy cập trang web trong **5 phút**.
 - Gửi **yêu cầu HTTP** đến trang chủ của website.
 - Đo thời gian phản hồi và xác định bottleneck nếu có.
